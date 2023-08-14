@@ -1,0 +1,15 @@
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\bin\Debug\net7.0\BaiTap.exe
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\bin\Debug\net7.0\BaiTap.deps.json
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\bin\Debug\net7.0\BaiTap.runtimeconfig.json
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\bin\Debug\net7.0\BaiTap.dll
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\bin\Debug\net7.0\BaiTap.pdb
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.csproj.AssemblyReference.cache
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.AssemblyInfoInputs.cache
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.AssemblyInfo.cs
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.dll
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\refint\BaiTap.dll
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.pdb
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\BaiTap.genruntimeconfig.cache
+C:\Users\Yen_B\Downloads\NE01_LapTrinhVien_NET\BaiTap\obj\Debug\net7.0\ref\BaiTap.dll
